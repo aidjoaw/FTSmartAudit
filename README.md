@@ -30,6 +30,19 @@ Our ecosystem provides a comprehensive solution for smart contract auditing with
 
 By leveraging these specialized models, our Ecosystem helps users quickly and accurately identify potential vulnerabilities in their smart contracts, providing valuable insights and recommendations for improvement.
 
+## 🕌 Fast Glance Notes  
+<div align="center">
+  <img src="./images/HKT-framework.png" alt="FTAudit Ecosystem" height="250">
+</div>
+
+<div align="center">
+  <img src="./images/HKT-data-flow.png" alt="FTAudit Ecosystem" height="250">
+</div>
+
+<div align="center">
+  <img src="./images/HKT-data-results.png" alt="FTAudit Ecosystem" height="250">
+</div>
+
 ## 🚀 Run Specialized Models
 
 All notebooks are **beginner-friendly**! Simply add your smart contract dataset, click "Run All", and receive a detailed audit report. Available for both Colab and local execution.
