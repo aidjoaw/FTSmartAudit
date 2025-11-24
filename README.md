@@ -32,15 +32,15 @@ By leveraging these specialized models, our Ecosystem helps users quickly and ac
 
 ## 🕌 Fast Glance Notes  
 <div align="center">
-  <img src="./images/HKT-framework.png" alt="FTAudit Ecosystem" height="250">
+  <img src="./images/HKT-framework.png" alt="FTAudit Ecosystem" height="300">
 </div>
 
 <div align="center">
-  <img src="./images/HKT-data-flow.png" alt="FTAudit Ecosystem" height="250">
+  <img src="./images/HKT-data-flow.png" alt="FTAudit Ecosystem" height="400">
 </div>
 
 <div align="center">
-  <img src="./images/HKT-data-results.png" alt="FTAudit Ecosystem" height="250">
+  <img src="./images/HKT-data-results.png" alt="FTAudit Ecosystem" height="400">
 </div>
 
 ## 🚀 Run Specialized Models
