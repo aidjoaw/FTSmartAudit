@@ -59,9 +59,9 @@ All notebooks are **beginner-friendly**! Simply add your smart contract dataset,
 |**HKT-Llama-3.2 (1b)**| Llama-3.2-1B-Instruct-bnb-4bit|-| [🤗 Download](https://huggingface.co/weifar/HKT-vul-llama-3_2-1b-it-v0.1) |
 | **FTAudit-Llama3 (8B)**      | Meta-Llama-3-8B-Instruct-bnb-4bit | [▶️ Colab](https://colab.research.google.com/drive/1Y_SHymcZGr98832GTSF46J1_JHtHgYhy?usp=sharing)               | [🤗 Download](https://huggingface.co/weifar/FTAudit-Llama3-8b-v1.0) | 
 | **FTAudit-Mistral (7B)**    | mistral-7b-instruct-v0.3-bnb-4bit |[▶️ Colab](https://colab.research.google.com/drive/11MYFl14fvdVtEHqKxFXDSMY_L80PzWA7?usp=sharing)               | [🤗 Download](https://huggingface.co/weifar/FTAudit-Mistral-7b-v1.1) | 
-|**Qwen3 (14B)** | HKT_qwen3_14b | |[🤗 Download](https://huggingface.co/weifar/HKT_qwen3_14b)|
-| **GLM-4.7-flash**      | HKT_GLM_4_7_flash |     |[🤗 Download](https://huggingface.co/weifar/HKT_GLM_4_7_flash) | 
-| **gpt-oss (20B)**      | HKT_gpt-oss-20b |     |[🤗 Download](https://huggingface.co/weifar/HKT_gpt-oss-20b) | 
+| **HKT_qwen3 (14b)** | Qwen3-14B-Instruct | |[🤗 Download](https://huggingface.co/weifar/HKT_qwen3_14b)|
+| **HKT_GLM_4_7 (flash)**  | GLM-4.7-flash      |     |[🤗 Download](https://huggingface.co/weifar/HKT_GLM_4_7_flash) | 
+| **HKT_gpt-oss (20b)** | gpt-oss-20B |     |[🤗 Download](https://huggingface.co/weifar/HKT_gpt-oss-20b) | 
 
 ### 🔍 Earlier Research Models
 
