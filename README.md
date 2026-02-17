@@ -61,7 +61,7 @@ All notebooks are **beginner-friendly**! Simply add your smart contract dataset,
 | **FTAudit-Mistral (7B)**    | mistral-7b-instruct-v0.3-bnb-4bit |[▶️ Colab](https://colab.research.google.com/drive/11MYFl14fvdVtEHqKxFXDSMY_L80PzWA7?usp=sharing)               | [🤗 Download](https://huggingface.co/weifar/FTAudit-Mistral-7b-v1.1) | 
 |**Qwen3 (14B)** | HKT_qwen3_14b | |[🤗 Download](https://huggingface.co/weifar/HKT_qwen3_14b)|
 | **GLM-4.7-flash**      | HKT_GLM_4_7_flash |     |[🤗 Download](https://huggingface.co/weifar/HKT_GLM_4_7_flash) | 
-| **gpt-oss (20B)**      | HKT_gpt-oss-20b |     |[🤗 Download]([https://huggingface.co/weifar/FTAudit-Gemma-7b-v1.0](https://huggingface.co/weifar/HKT_gpt-oss-20b)) | 
+| **gpt-oss (20B)**      | HKT_gpt-oss-20b |     |[🤗 Download](https://huggingface.co/weifar/HKT_gpt-oss-20b) | 
 
 ### 🔍 Earlier Research Models
 
